@@ -1,0 +1,15 @@
+Key,(Comments),en_US,zh_CN
+hello,plain text,hello!,你好！
+notice,通常用于公告信息，比如， 发布新版本app时的通知，优惠活动等,"This is  
+a multiline 
+example.","这是  
+一个  
+多行文本的例子。"
+greet,text with parameters,Hello {{firstName}}!,你好{{firstName}}！
+date.picker,,select date,选择日期
+product.online.item(Plural.Zero),plural,There are no items,没有数据
+product.online.item(Plural.One),,There is 1 item,{{count}}条数据
+product.online.item(Plural.More),,There are {{count}} items,{{count}}条数据
+user.contact(Gender.Male),enumeration,"Hi,Mr {{lastName}}",{{lastName}}{{firstName}}先生，您好
+user.contact(Gender.Female),,"Hi,Mrs {{lastName}}",{{lastName}}女士，您好
+product.instock,,surplus goods {{count}},库存{{count}}
